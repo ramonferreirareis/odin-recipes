@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(250, 247, 210);
+    text-align: center;
+    line-height: 100px;
+}
+
+.title {
+    color: #f3f3f8;
+    background-color: rgb(53, 50, 50);
+}
+
+.bfont {
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mfont {
+    background-color: rgb(253, 250, 243);
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sfont {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul, 
+a {
+    list-style: none;
+    text-decoration: none;
+    color: rgb(153, 45, 26);
+    background-color: rgb(255, 166, 0);
+}
+
+.bg-light {
+    background-color: rgb(255, 230, 87);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
